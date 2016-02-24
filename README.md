@@ -9,4 +9,4 @@ Typecho 自动翻译slug插件
 
 如果已有slug则不会重新生成，可以先编辑标题，然后清空slug框，在外面点击下鼠标即可自动生成新的slug。
 
-可在http://blog.tapasy.com/baiduslug.html查看预览效果。
+可在  http://blog.tapasy.com/baiduslug.html  查看预览效果。
